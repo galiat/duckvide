@@ -1,2 +1,2 @@
 # duckvide
-runs my partivce-powered sous vide
+runs my partice-powered sous vide
